@@ -1,11 +1,11 @@
 This C++ program is a functional online voting system that allows users to register as voters, cast their votes, and view election results. Here is a quick breakdown of its key features:
 
-Features:
-Register as a Voter:
+#Features:
+#Register as a Voter:
 
 A voter can register with their unique Voter ID.
 Duplicate registrations are prevented.
-Cast Vote:
+#Cast Vote:
 
 A registered voter can cast their vote for a candidate by entering the candidate's ID.
 The system ensures voters don't vote multiple times.
